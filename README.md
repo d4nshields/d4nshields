@@ -1,4 +1,4 @@
 
 ### About me
 
-I'm a versatile full-stack developer with a passion for building well-rounded solutions. My expertise spans front-end development, back-end services, database design, machine learning, and solution architecture. As a developer advocate, I thrive on collaboration and knowledge sharing. Outside of work, I find balance through staying active. Whether it's running, swimming, hitting the trails, or walking furry companions, I'm always up for an adventure.
+I'm a multifaceted developer and advocate with a passion for building comprehensive solutions. My expertise includes front-end, back-end, database design, machine learning, and architecture. I thrive on collaboration and knowledge sharing. Outside of work, I stay active through running, cycling, rowing, swimming, hiking, and walking my furry friends.
