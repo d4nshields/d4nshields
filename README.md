@@ -1,4 +1,4 @@
-> ## I help founders and development teams who value independence automate the path to durable software, with safeguards built in.
+> ## I help founders and development teams who value independence automate the path to durable software.
 
 ### About me
 
