@@ -1,3 +1,4 @@
+> ## I help founders and development teams who value independence automate the path to durable software, with safeguards built in.
 
 ### About me
 
@@ -5,4 +6,4 @@ I’m Dan, someone who finds balance by bridging technology and nature, connecti
 
 My mornings start with a run, ending just as dawn breaks, when I take a few quiet moments for meditation. And in the evenings, I enjoy catching sight of the moon, whether it’s beside me at sunrise or sunset or illuminating a late walk. These small rituals keep me grounded, a steady backdrop to my life.
 
-In my work, I’m driven by an eternal quest for knowledge and for ways to connect—whether it’s people, ideas, or technology. I thrive on exploring new paths and pushing boundaries, believing there’s always more to learn, another question to ask, and a new connection waiting to be made.
+That same curiosity shapes my work. I enjoy exploring unfamiliar problems, connecting ideas, and building software that people can understand, maintain, and control. I care about what a system makes possible, and about its consequences for the people who depend on it. There’s always more to learn, another question to ask, and a new connection waiting to be made.
